@@ -1,4 +1,3 @@
--- YARHM 1.18.1
 -- Let's keep this open source for all of us.
 
 if not game:IsLoaded() then
